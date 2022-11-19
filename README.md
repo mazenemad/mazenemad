@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
 </div>
-  <div>I am a Full Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.</div>
+  <div>I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.</div>
   
   
 <div> - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.</div>
